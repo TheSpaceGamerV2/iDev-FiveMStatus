@@ -1,0 +1,8 @@
+{
+    "token": "votretoken",
+    "host": "votreip",
+    "port": "votreport",
+    "game": "fivem",
+    "offlinesentence": "Serveur OFFLINE",
+    "refreshtime" : 60000
+}
