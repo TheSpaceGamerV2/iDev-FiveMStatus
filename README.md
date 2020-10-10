@@ -12,4 +12,4 @@ Optional
 
 
 Contact Us
-Discord : https://discord.gg/e5tjrxb
+- Discord : https://discord.gg/e5tjrxb
